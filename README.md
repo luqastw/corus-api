@@ -1,9 +1,15 @@
-# 🦗 C.O.R.U.S - The brain behind your business automation.
+# 🦗 C.O.R.U.S - O Cérebro do seu Negócio.
 
 - **C**ontrol, **O**rchestration, **R**eliability & **U**nified **S**ystem.
-- **CORUS** is a customizable automation API that lets businesses design, manage, and run workflows easily and reliably.
+- **CORUS** é uma API de automação totalmente customizável, a qual diminui o trabalho, gerência e mantém o fluxo de trabalho de maneira simples e eficiente.
 
-## Levels of Functionality:
+## Níveis de Funcionalidade:
+
+🔨 **Nível 1 (Básico)**:
+
+- Interface minimalista e funcional;
+- Executar tarefas simples;
+- Pequena variedade de funções e plugins.
 
 🚧
 

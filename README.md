@@ -13,6 +13,6 @@
 
 🚧
 
-## Contato:
+## Contact:
 
-Para questionamentos, sugestões, ou contribuições, contate: 🚧
+For questions, suggestions, or contributions, contact: 🚧
